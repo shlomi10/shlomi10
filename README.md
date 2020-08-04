@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Logo](pngezgif.com-video-to-gif.gif)
+![GitHub Logo](shlomi10/ezgif.com-video-to-gif.gif)
 
 
 <!--
