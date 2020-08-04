@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/shlomi10/shlomi10/blob/master/ezgif.com-video-to-gif.gif)
+![GitHub Logo](https://github.com/shlomi10/shlomi10/blob/master/myGif1.gif)
 
 ### Hi there 👋
 
