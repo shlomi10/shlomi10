@@ -1,6 +1,6 @@
-<!-- ### Hi there 👋 -->
 ![GitHub Logo](https://github.com/shlomi10/shlomi10/blob/master/ezgif.com-video-to-gif.gif)
 
+<!-- ### Hi there 👋 -->
 
 <!--
 **shlomi10/shlomi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
