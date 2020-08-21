@@ -4,9 +4,10 @@
 
 <!--**shlomi10/shlomi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--Here are some ideas to get you started:-->
 ![GitHub](https://github.com/shlomi10/shlomi10/blob/master/ShlomiGross.gif)
-- 🔭 I’m currently working on automation project to move from manual test to automation ones
+
+- 🔭 I’m currently working on a project to move all the tests from manual test to automation ones
+Junior Automation Tester with a lot of Manual Testing experience
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on automation projects
 - 🤔 I’m looking for help with deep understand java :) 
