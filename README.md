@@ -7,8 +7,7 @@
 ![GitHub](https://github.com/shlomi10/shlomi10/blob/master/ShlomiGross.gif)
 
 Hi there 👋
-- 🔭 I’m currently working on a project to move all the tests from manual test to automation ones
-Junior Automation Tester with a lot of Manual Testing experience
+- 🔭 My name is Shlomi and I’m currently working on a project to move all the tests from manual test to automation ones
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on automation projects
 - 🤔 I’m looking for help with deep understand java :) 
