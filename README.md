@@ -5,7 +5,7 @@
 <!--**shlomi10/shlomi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--Here are some ideas to get you started:-->
-![](Shlomi%20Gross.gif)
+![Farmers Market Finder Demo](shlomi10/ShlomiGross.gif)
 [GitHub Logo](https://github.com/shlomi10/shlomi10/blob/master/Shlomi%20Gross.gif)
 - 🔭 I’m currently working on automation project to move from manual test to automation ones
 - 🌱 I’m currently learning python
