@@ -7,7 +7,7 @@
 ![GitHub](https://github.com/shlomi10/shlomi10/blob/master/ShlomiGross.gif)
 
 Hi there 👋
-- 🔭 My name is Shlomi and I’m currently working on a project to move all the tests from manual test to automation ones
+- 🔭 My name is Shlomi and I’m experienced automation developer including establishing automation infrastructures from scratch for both Web, Mobile and API systems.
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on automation projects
 - 💬 Ask me about testing
