@@ -6,11 +6,22 @@
 
 ![GitHub](https://github.com/shlomi10/shlomi10/blob/master/ShlomiGross.gif)
 
-Hi there 👋
-- 🔭 My name is Shlomi and I’m experienced automation developer including establishing automation infrastructures from scratch for both Web, Mobile and API systems.
-- 🌱 Passionate about quality and finding bugs and excited to understand and analyze the product.
-- 👯 I’m looking to collaborate on automation projects.
-- 💬 Ask me about testing.
-- 📫 How to reach me: leave a comment and will back to you.
-- 😄 Pronouns: what goes around comes back around.
-- ⚡ Fun fact: Walmart has a lower acceptance rate than Harvard.
+👋 Hey there, I'm Shlomi!
+🚀 Automation Engineer | Quality Enthusiast | Bug Hunter
+💡 Who am I?
+I'm a passionate automation developer with experience in building test automation infrastructures from scratch for Web, Mobile, and API systems. I thrive on ensuring software quality, uncovering hidden bugs, and enhancing testing efficiency.
+
+🛠 What I Do:
+✔️ Develop robust and scalable automation frameworks
+✔️ Design and implement Web, Mobile, and API automation strategies
+✔️ Improve CI/CD pipelines for seamless testing integration
+✔️ Advocate for quality-driven development
+
+🤝 Looking to Collaborate?
+I'm always excited to work on automation projects, share best practices, and exchange ideas with fellow engineers. Let’s build better, faster, and more reliable software together!
+
+📬 Get in Touch:
+Drop a comment or connect with me—I’d love to chat about automation, testing strategies, and innovative solutions!
+
+🎯 Fun Fact:
+Walmart has a lower acceptance rate than Harvard! 🎓🛒
