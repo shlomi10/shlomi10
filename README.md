@@ -36,11 +36,11 @@ Walmart has a lower acceptance rate than Harvard! 🎓🛒
 
 #### ⚙️ Automation & Testing
 - **Tools:** Selenium, Playwright, Appium, Postman, Rest Assured, JMeter  
-- **Frameworks:** Pytest, TestNG, Page Object Model  
+- **Frameworks:** Pytest, TestNG  
 - **Languages:** Python, Java
 
 #### ☁️ Cloud & DevOps
-- AWS, Azure, GCP, Docker, Kubernetes, Jenkins, GitHub Actions
+- AWS, Azure, GCP, Docker, DockerHub, Kubernetes, Jenkins, GitHub Actions
 
 #### 🛠️ Backend Development
 - REST APIs, FastAPI, Spring Boot, Microservices, CI/CD Pipelines
@@ -49,14 +49,11 @@ Walmart has a lower acceptance rate than Harvard! 🎓🛒
 - PostgreSQL, MS SQL, MongoDB, Kafka, Cassandra, Redis, MariaDB, MySQL
 
 #### 🧪 QA & Performance
-- Manual testing, Load testing, API validation, OOP principles
+- Manual testing, Load testing, API validation, Automation with OOP principles
 
 #### 💻 Platforms & Tools
-- Android Studio, Xcode, VS Code, IntelliJ, Jira, Trello, Confluence
+- Android Studio, Xcode, VS Code, Pycharm, IntelliJ, Jira, Trello, Confluence
 
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=aiscript,aws,azure,gcp,bitbucket,cassandra,git,github,githubactions,jenkins,gmail,idea,ai,elasticsearch,kafka,mongodb,mysql,sqlite,fastapi,openshift,figma,python,java,selenium,postman,docker,kubernetes,maven,pycharm,vscode)](https://skillicons.dev)
-
-🧠 **Recent AI Project:**  
-Built a full-stack [Trivia Game Generator](https://github.com/shlomi10/trivia-ai-generator) using OpenAI API, FastAPI backend, and CI/CD workflows.
