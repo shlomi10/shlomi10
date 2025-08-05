@@ -30,4 +30,37 @@ Drop a comment or connect with me—I’d love to chat about automation, testing
 🎯 **Fun Fact:**  
 Walmart has a lower acceptance rate than Harvard! 🎓🛒  
 
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,spring,pytest,testng,selenium,playwright,appium,postman,jmeter,rest,git,github,githubactions,jenkins,docker,kubernetes,linux,aws,azure,gcp,mysql,mariadb,mongodb,redis,cassandra,heroku,androidstudio,vscode,intellij" />
+</p>
+
+### 🔧 Key Skills by Domain
+
+#### ⚙️ Automation & Testing
+- **Tools:** Selenium, Playwright, Appium, Postman, Rest Assured, JMeter  
+- **Frameworks:** Pytest, TestNG, Page Object Model  
+- **Languages:** Python, Java
+
+#### ☁️ Cloud & DevOps
+- AWS, Azure, GCP, Docker, Kubernetes, Jenkins, GitHub Actions
+
+#### 🛠️ Backend Development
+- REST APIs, FastAPI, Spring Boot, Microservices, CI/CD Pipelines
+
+#### 🗄️ Databases & Queues
+- MySQL, MariaDB, MS SQL, MongoDB, Redis, Cassandra, Kafka
+
+#### 🧪 QA & Performance
+- Manual testing, Load testing, API validation, OOP principles
+
+#### 💻 Platforms & Tools
+- Android Studio, Xcode, VS Code, IntelliJ, Jira, Trello, Confluence
+
+---
+
 [![My Skills](https://skillicons.dev/icons?i=aiscript,aws,azure,gcp,bitbucket,cassandra,git,github,githubactions,jenkins,gmail,idea,ai,elasticsearch,kafka,mongodb,mysql,sqlite,fastapi,openshift,figma,python,java,selenium,postman,docker,kubernetes,maven,pycharm,vscode)](https://skillicons.dev)
+
+🧠 **Recent AI Project:**  
+Built a full-stack [Trivia Game Generator](https://github.com/shlomi10/trivia-ai-generator) using OpenAI API, FastAPI backend, and CI/CD workflows.
