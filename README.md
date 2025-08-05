@@ -8,7 +8,7 @@
 
 ## 👋 Hey there, I'm Shlomi!  
 
-### 🚀 Automation Engineer | Quality Enthusiast | Bug Hunter  
+### 🚀 Software Developer | Automation Engineer | Quality Enthusiast | Bug Hunter  
 
 💡 **Who am I?**  
 I'm a passionate **automation developer** with experience in **building test automation infrastructures from scratch** for **Web, Mobile, and API** systems.  
