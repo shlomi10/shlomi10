@@ -30,10 +30,4 @@ Drop a comment or connect with me—I’d love to chat about automation, testing
 🎯 **Fun Fact:**  
 Walmart has a lower acceptance rate than Harvard! 🎓🛒  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=aiscript,aws,azure,gcp,bitbucket,cassandra,git,github,githubactions,jenkins,gmail,idea,ai,elasticsearch,kafka,mongodb,mysql,sqlite,fastapi,openshift,figma,python,java,selenium,pytest,playwright,appium,postman,jmeter,docker,kubernetes,maven,mariadb,ps,pycharm,vscode)](https://skillicons.dev)
