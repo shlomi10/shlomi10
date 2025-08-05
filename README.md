@@ -27,9 +27,6 @@ Let’s build **better, faster, and more reliable** software together!
 📬 **Get in Touch:**  
 Drop a comment or connect with me—I’d love to chat about automation, testing strategies, and innovative solutions!  
 
-🎯 **Fun Fact:**  
-Walmart has a lower acceptance rate than Harvard! 🎓🛒  
-
 ## 💻 Tech Stack & Tools
 
 ### 🔧 Key Skills by Domain
