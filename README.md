@@ -31,5 +31,4 @@ Drop a comment or connect with me—I’d love to chat about automation, testing
 Walmart has a lower acceptance rate than Harvard! 🎓🛒  
 
 
-https://skillicons.dev/icons?i=python,java,javascript,typescript,selenium,pytest,playwright,appium,postman,jmeter,docker,kubernetes,githubactions,jenkins,linux,aws,azure,gcp,html,css,mysql,mariadb,sqlite
-
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,selenium,pytest,playwright,appium,postman,jmeter,docker,kubernetes,githubactions,jenkins,linux,aws,azure,gcp,html,css,mysql,mariadb,sqlite)](https://skillicons.dev)
