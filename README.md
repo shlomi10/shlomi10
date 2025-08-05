@@ -11,7 +11,7 @@
 ### 🚀 Software Developer | Automation Engineer | Quality Enthusiast | Bug Hunter  
 
 💡 **Who am I?**  
-I'm a passionate **automation developer** with experience in **building test automation infrastructures from scratch** for **Web, Mobile, and API** systems.  
+I'm a passionate **Software Developer & Automation developer** with experience in **building test automation infrastructures from scratch** for **Web, Mobile, and API** systems.  
 I thrive on **ensuring software quality**, uncovering hidden bugs, and enhancing testing efficiency.  
 
 🛠 **What I Do:**  
