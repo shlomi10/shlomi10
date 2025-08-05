@@ -32,10 +32,6 @@ Walmart has a lower acceptance rate than Harvard! 🎓🛒
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,spring,pytest,testng,selenium,playwright,appium,postman,jmeter,rest,git,github,githubactions,jenkins,docker,kubernetes,linux,aws,azure,gcp,mysql,mariadb,mongodb,redis,cassandra,heroku,androidstudio,vscode,intellij" />
-</p>
-
 ### 🔧 Key Skills by Domain
 
 #### ⚙️ Automation & Testing
@@ -50,7 +46,7 @@ Walmart has a lower acceptance rate than Harvard! 🎓🛒
 - REST APIs, FastAPI, Spring Boot, Microservices, CI/CD Pipelines
 
 #### 🗄️ Databases & Queues
-- MySQL, MariaDB, MS SQL, MongoDB, Redis, Cassandra, Kafka
+- PostgreSQL, MS SQL, MongoDB, Kafka, Cassandra, Redis, MariaDB, MySQL
 
 #### 🧪 QA & Performance
 - Manual testing, Load testing, API validation, OOP principles
