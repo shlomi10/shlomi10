@@ -3,7 +3,7 @@
 <!--### Hi there 👋-->
 
 <!--**shlomi10/shlomi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![GitHub](https://github.com/user-attachments/assets/9ac45638-72b4-4e71-b32c-3064458a380f)
+![GitHub](<img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/68ecc04b-04ea-488f-aafc-6418e26e7c64" />)
 ## 👋 Hey, I'm Shlomi!  
 
 ### 🚀 Software Developer | Automation Engineer | Quality Enthusiast | Bug Hunter  
