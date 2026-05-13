@@ -6,50 +6,56 @@
 
 ![GitHub](https://github.com/shlomi10/shlomi10/blob/master/ShlomiGross.gif)
 
-## 👋 Hey there, I'm Shlomi!  
+## 👋 Hey, I'm Shlomi!  
 
 ### 🚀 Software Developer | Automation Engineer | Quality Enthusiast | Bug Hunter  
 
-💡 **Who am I?**  
-I'm a passionate **Software Developer & Automation developer** with experience in **building test automation infrastructures from scratch** for **Web, Mobile, and API** systems.  
-I thrive on **ensuring software quality**, uncovering hidden bugs, and enhancing testing efficiency.  
+Backend & Automation Engineer focused on building reliable backend systems, scalable test automation infrastructure, and CI/CD-ready quality solutions.
 
-🛠 **What I Do:**  
-✔️ Develop robust and scalable automation frameworks  
-✔️ Design and implement Web, Mobile, and API automation strategies  
-✔️ Improve CI/CD pipelines for seamless testing integration  
-✔️ Advocate for quality-driven development  
+I work across **backend development**, **REST API design and validation**, **UI/API automation**, and **cloud-based environments**, with hands-on experience in Python, Java, FastAPI, Spring Boot, Playwright, Pytest, Selenium, Docker, Kubernetes, AWS, and GitHub Actions.
 
-🤝 **Looking to Collaborate?**  
-I'm always excited to work on **automation projects**, share best practices, and exchange ideas with fellow engineers.  
-Let’s build **better, faster, and more reliable** software together!  
+## 🚀 What I Do
 
-📬 **Get in Touch:**  
-Drop a comment or connect with me—I’d love to chat about automation, testing strategies, and innovative solutions!  
+- Build backend services and REST API-based systems
+- Develop scalable automation frameworks from scratch
+- Automate Web, Mobile, and API testing flows
+- Design clean Page Object Model and API client architectures
+- Validate backend services, databases, and cloud-based systems
+- Integrate backend and automation workflows into CI/CD pipelines
+- Improve reliability through logging, reporting, monitoring, and debugging 
 
 ## 💻 Tech Stack & Tools
 
-### 🔧 Key Skills by Domain
+### Backend Development
+Python, Java, FastAPI, Spring Boot, REST APIs, GraphQL, Swagger, Microservices
 
-#### ⚙️ Automation & Testing
-- **Tools:** Selenium, Playwright, Appium, Postman, Rest Assured, JMeter  
-- **Frameworks:** Pytest, TestNG  
-- **Languages:** Python, Java
+### Automation & Testing
+Playwright, Pytest, Selenium, Appium, TestNG, Postman, Rest Assured, Allure, JMeter, Locust
 
-#### ☁️ Cloud & DevOps
-- AWS, Azure, GCP, Docker, DockerHub, Kubernetes, Jenkins, GitHub Actions
+### Cloud & DevOps
+AWS, Docker, Docker Hub, Kubernetes, GitHub Actions, Jenkins, CircleCI
 
-#### 🛠️ Backend Development
-- REST APIs, FastAPI, Spring Boot, Microservices, CI/CD Pipelines
+### Databases & Messaging
+PostgreSQL, MySQL, MariaDB, MongoDB, Redis, Kafka, Cassandra
 
-#### 🗄️ Databases & Queues
-- PostgreSQL, MS SQL, MongoDB, Kafka, Cassandra, Redis, MariaDB, MySQL
+### Tools
+PyCharm, IntelliJ, cursor, VS Code, Android Studio, Xcode, Jira, Trello, Confluence
 
 #### 🧪 QA & Performance
 - Manual testing, Load testing, API validation, Automation with OOP principles
 
 #### 💻 Platforms & Tools
 - Android Studio, Xcode, VS Code, Pycharm, IntelliJ, Jira, Trello, Confluence
+
+## 📌 Current Focus
+
+- Backend engineering with Python and Java
+- API design, validation, and automation
+- Test automation architecture
+- Playwright + Pytest frameworks
+- CI/CD automation workflows
+- AI-assisted development and testing
+
 
 ---
 
