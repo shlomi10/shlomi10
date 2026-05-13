@@ -3,6 +3,10 @@
 <!--### Hi there 👋-->
 
 <!--**shlomi10/shlomi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<p align="center">
+  <img src="./backend_banner.png" alt="Shlomi Gross - Backend & Automation Engineer" width="100%" />
+</p>
+
 ![GitHub](https://github.com/shlomi10/shlomi10/blob/master/backend_banner.png)
 ## 👋 Hey, I'm Shlomi!  
 
