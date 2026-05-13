@@ -4,8 +4,6 @@
 
 <!--**shlomi10/shlomi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![GitHub](https://github.com/user-attachments/assets/9ac45638-72b4-4e71-b32c-3064458a380f)
-![GitHub](https://github.com/shlomi10/shlomi10/blob/master/ShlomiGross.gif)
-
 ## 👋 Hey, I'm Shlomi!  
 
 ### 🚀 Software Developer | Automation Engineer | Quality Enthusiast | Bug Hunter  
