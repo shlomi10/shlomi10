@@ -7,7 +7,7 @@
   <img src="./backend.png" alt="Shlomi Gross - Backend & Automation Engineer" width="100%" />
 </p>
 
-![GitHub](https://github.com/shlomi10/shlomi10/blob/master/backend_banner.png)
+![GitHub](https://github.com/shlomi10/shlomi10/blob/master/backend.png)
 ## 👋 Hey, I'm Shlomi!  
 
 ### 🚀 Software Developer | Automation Engineer | Quality Enthusiast | Bug Hunter  
